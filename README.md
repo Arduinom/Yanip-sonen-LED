@@ -26,6 +26,7 @@ delay(1000);
 digitalWrite (8,LOW);
                          
                          // 8. PİNDEKİ GÜCÜ KAPATTIK
-delay(1000);      
+delay(1000);
+
                             // 1 SANİYE BOYUNCA BEKLE
 }
